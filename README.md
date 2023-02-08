@@ -1,3 +1,3 @@
-# Kaggle competitions
+# Data science related notebooks
 
-Submitted Kaggle competitions codes.
+Since 2020
