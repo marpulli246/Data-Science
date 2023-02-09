@@ -1,3 +1,3 @@
-# Data science related notebooks
+# Data science related analytic notebooks
 
 Since 2020
